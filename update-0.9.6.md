@@ -1,4 +1,4 @@
-#RealityChain Development Update Log 0.9.6
+# RealityChain Development Update Log 0.9.6
 
 Hi everyone, welcome to our first-ever Reality Chain Update Log! Here, we’re going to inform you of the development progress of our metaverse engine Reality Chain.
 
