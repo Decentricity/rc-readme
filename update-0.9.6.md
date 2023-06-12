@@ -23,3 +23,20 @@ Updated:
 * Social Interaction UI
 
    - User Interaction Menu
+
+
+3. Performance improvement
+
+We Optimize the engine to load faster and perform better.
+
+
+4. Bugfix
+
+No game nor program is without any bugs, especially in the development phase, but we always trying to squash those pesky bugs in every iteration.
+
+
+
+Realty Chain is a Metaverse, a social hub, naturally, we will update and improve based on what users and communities want and need even after it is released. So stay tuned for more updates! 
+
+
+See ya in the next updates!
