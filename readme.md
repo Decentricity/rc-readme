@@ -1,5 +1,7 @@
 # Welcome to RealityChain: A Multichain Metaverse for Everyone
 
+![Alternative text for image](URL)
+
 Born from a realization that virtual digital spaces should be casual, accessible and user-friendly to reach mass adoption, RealityChain offers a new approach to the Metaverse. Starting from a 2D-first perspective, we've created spaces that can be experienced in parallel with real life.
 
 Originally launched on NEAR, RealityChain is now a fully multichain Metaverse, running on both NEAR and Ethereum. Our platform hosts multiple metaverses, with myriad.town being the first launched. Soon, we will release additional metaverses including 2d.miami, paras.city, and uniqueone.world.
