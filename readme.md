@@ -22,4 +22,12 @@ Future updates will include an open API for NPC control, enabling easy AI integr
     - [RealityChain (access under NDA)](ENTER REPO LINK HERE PLS CHAIRUL)
 - Developers on Github: (LINKS PLEASE)
 
-## Join us in redefining the Metaverse, where the virtual and physical world blend seamlessly.
+## Development updates:
+- [Update 0.9.6](https://www.realitychain.io/post/realitychain-dev-update-log-0-9-6)
+- [Update 0.9.7](https://www.realitychain.io/post/realitychain-dev-update-log-0-9-7)
+- [Update 3](https://www.realitychain.io/post/realitychain-development-update-log-3)
+- [Update 4](https://www.realitychain.io/post/realitychain-development-update-log-4)
+- [Update 5](https://www.realitychain.io/post/realitychain-development-update-log-5)
+- [Update 6](https://www.realitychain.io/post/realitychain-development-update-log-6)
+
+### Join us in redefining the Metaverse, where the virtual and physical world blend seamlessly.
