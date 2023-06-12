@@ -14,7 +14,7 @@ We implement a push-to-talk feature for anyone who only wants an active mic when
 
 For a better user experience, we always update the Interface to make it more user-friendly.
 
-    Updated:
+Updated:
 
 * Edit Mode
 
