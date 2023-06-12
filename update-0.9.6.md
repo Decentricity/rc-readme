@@ -18,8 +18,8 @@ Updated:
 
 * Edit Mode
 
-- Edit State Popup
+   - Edit State Popup
 
 * Social Interaction UI
 
-- User Interaction Menu
+   - User Interaction Menu
