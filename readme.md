@@ -1,6 +1,6 @@
 # Welcome to RealityChain: A Multichain Metaverse for Everyone
 
-![RealityChain Metaverse](https://static.wixstatic.com/media/3d2a7c_e38a4362504941e4a866cc5e90cbb62d~mv2.gif)
+![RealityChain Metaverse](02.gif.gif)
 
 
 Born from a realization that virtual digital spaces should be casual, accessible and user-friendly to reach mass adoption, RealityChain offers a new approach to the Metaverse. Starting from a 2D-first perspective, we've created spaces that can be experienced in parallel with real life.
